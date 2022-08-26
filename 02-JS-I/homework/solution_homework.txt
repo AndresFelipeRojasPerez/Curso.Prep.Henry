@@ -1,0 +1,26 @@
+    * Variables: Las variables son elementos a los cuales les damos un nombre y un valor, para 
+	posteriormente utilizarlas en funciones o diferentes acciones, las podemos crear y modificar 
+	cuando sea necesario.
+
+	* Strings: Los Strings son conjuntos de letras, palabras y/o simbolos, que podemos escribir para 
+	que el sistema los interprete 
+
+	* Funciones (argumentos, `return`): Las funcuiones son una especie de sistema que creamos para 
+	que realice determinada acción. Por ejemplo para sumar dos números, podemos hacer una función que se 
+	llame función suma, la cual programaremos para que tome dos números cualesquiera que ingresemos
+	(los cuales son llamados "argumentos" de la función) y que de esa forma mediante el comando "return"
+	nos devuelva una acción especifica, que en este caso va a ser el resultado de la suma de esos dos 
+	números. 
+	El comando "return" es una especie de orden que le damos al sistema para que realice una acción y nos 
+	retorne determinado valor.
+
+
+	* Declaraciones `if`: Una declaración es una especie de afirmación que usamos para definir ya sea
+	una variable o una función, podemos declarar su tipo o su valor. 
+	Por otro lado "if" es una condición que ponemos para que, dependiendo del valor que ingresemos 
+	a cierta función, los resultados que nos retorne esta, tomen cierto rumbo.  
+	
+	* Valores booleanos (`true`, `false`): Los valores booleanos son un resultado que nos da el sistema
+	cuando ingresamos ciertos datos y antes se han establecido unas condiciones para que dependiendo
+	de estos datos el resultado sea "true" o "false", estos dos son los únicos valores que se pueden 
+	obtener cuando estamos hablando de valores booleanos.
