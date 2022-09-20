@@ -1,0 +1,18 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente
+cualquier agujero en tu comprensión.
+
+* `for` : Es una sentencia la cual crea un bucle o ciclo que se ejecutara hasta determinado punto, 
+dependiendo de los parámetros que coloquemos, esta sentencia se divide en 3 partes: la primera en la 
+cual declaramos una variable, luego establecemos una condición la cual cuando se cumpla se detrendrá 
+la ejecución de la sentencia y por último incrementamos la variable.
+
+* `&&` : Este es un operador lógico llamado "AND" el cual recibe 2 o más condiciones y solo si todas
+ las condiciones son true se ejecutará el código, si hay alguna condición que no cumpla no se ejecutará.
+ 
+* `||` : Es otro de los operadores lógicos disponibles, su nombre es "OR" y este a diferencia de "AND
+ejecutará el código si alguna de las condiciones colocadas es true, para que no se ejecute todas las 
+condiciones deben ser false.
+
+* `!` : Este operador se utiliza para negar, nos devuelve lo opuesto a lo que estemos colocando, por 
+ejemplo si negamos un false (!false) obtendremos como resultado un true.
