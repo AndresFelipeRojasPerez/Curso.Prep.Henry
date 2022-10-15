@@ -1,0 +1,22 @@
+* Objetos = Los objetos son variables en las cuales podemos contener información, la cual está organizada
+por medio de un enunciado llamado Clave (Key) y un valor (Value). Los objetos pueden contener numerosas
+claves, cada una de estas con su correspondiente valor, los valores pueden ser cualquier 
+tipo de dato manejado en Javascript (strings, números, booleanos, null...) y tambien puden ser una función
+la cual, para el caso de los objetos llamaremos método.
+
+
+* Propiedades: Las propiedades son lo que almacenamos en nuestros objetos, cada par clave-valor es una 
+propiedad.
+
+* Métodos: Los métodos de un objeto se conforman cuando a una clave le damos un valor de función. 
+
+* Bucle `for…in`: Es un Bucle que utilizamos para poder entrar y recorrer las propiedades de un objeto 
+para ello utilizamos la siguiente notación for (let variable in objeto), en la primera parte definimos
+una variable que va a tomar los valores de cada una de las propiedades en el objeto, y en la segunda 
+parte indicamos en cual objeto queremos entrar.
+
+* Notación de puntos vs notación de corchetes: Estas notaciones son las que utilizamos para poder 
+acceder, asignar, modificar o eliminar propiedades en un objeto. En la notación de puntos invocamos el
+objeto seguido de un punto y la clave así: objeto.clave.
+Por otro lado para la notación de corchetes invocamos el objeto y colocamos entre corchetes y comillas 
+la clave, así: objeto["clave"].
