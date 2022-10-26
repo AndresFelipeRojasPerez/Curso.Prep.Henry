@@ -1,0 +1,11 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos
+ como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente
+cualquier agujero en tu comprensión.
+
+* `prototype` : El prototype es un método ligado directamente al constructor, que establecemos con el 
+fin de que todos los objetos creados a partir de ese constructor puedan compartilo cuando es invocado, 
+pero sin necesidad de que cada objeto lo contenga, optimizando así el uso de memoria.
+
+* _Constructors_ (de Clases): Los constructores son una especie de plantilla que usamos para crear 
+numerosos objetos que comparten diferentes propiedades, las cuales se encuentran definidas dentro del 
+constructor.
